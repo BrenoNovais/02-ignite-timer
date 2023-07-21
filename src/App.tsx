@@ -1,6 +1,6 @@
 import { ThemeProvider } from "styled-components";
 import { Button } from "./components/Button";
-import { defaltTheme } from "./styles/themes/defalt";
+import { defaltTheme } from "./styles/themes/default";
 
 export function App() {
   return (
